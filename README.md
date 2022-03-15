@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-Overview of the Analysis
+## Overview of the Analysis
 
 This analysis involved company data including the departments, managers, and employees, as well as information about how long they have been with the company. All of the relevant information was originally provided in six different CSV files. Relationships among the files were outlined and additional tables were created to complete the analysis. The purpose of this analysis was to identify which employees will be retiring soon, within specific departments. An additional analysis was conducted to identify specific employees who would be eligible for a mentorship program, in which experienced employees in the Sales and Development departments would stay on in a part-time role before retiring.
 
