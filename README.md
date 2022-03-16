@@ -28,3 +28,6 @@ The number of qualified, retirement-ready employees is not sufficient to mentor 
 Additional queries that would be useful to conduct would be to evaluate the number of mentorship eligible employees by title. Given most retirees will be Senior Engineers and Senior Staff, this is the position that would benefit from more mentors.
 
 Another query that would be helpful, would be to start analyzing employees eligible for mentorship in the next coming years. This way the company could begin talking to these employees to find out if they would even be interested or if they plan to just fully retire. The company may need to find additional mentors as not everyone may be interested in staying on part time. 
+
+
+
