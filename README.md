@@ -29,5 +29,5 @@ Additional queries that would be useful to conduct would be to evaluate the numb
 
 Another query that would be helpful, would be to start analyzing employees eligible for mentorship in the next coming years. This way the company could begin talking to these employees to find out if they would even be interested or if they plan to just fully retire. The company may need to find additional mentors as not everyone may be interested in staying on part time. 
 
-
+end.
 
